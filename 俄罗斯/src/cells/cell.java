@@ -15,7 +15,7 @@ public class cell {
 		this.ver = x.getX();
 		this.hor = x.getY();
 	}
-	
+	//、Window->preferences->team->git->congfiguration
 	//获取x坐标
 	public int getX()
 	{
